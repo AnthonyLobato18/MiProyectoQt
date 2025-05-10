@@ -1,0 +1,24 @@
+# Carpetas de build
+build-*/
+*.o
+*.obj
+*.dll
+*.exe
+*.so
+*.a
+
+# Archivos de Qt Creator
+*.user
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Makefiles y similares
+Makefile
+Makefile.*
+.qmake.stash
+.qmake.cache
